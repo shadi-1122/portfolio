@@ -400,7 +400,7 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
+    name: 'Irfan Valappil',
     position: 'Marketing Director at GreenLeaf',
     img: 'assets/review1.png',
     review:
@@ -408,7 +408,7 @@ export const clientReviews = [
   },
   {
     id: 2,
-    name: 'Mark Rogers',
+    name: 'Amal Chockly',
     position: 'Founder of TechGear Shop',
     img: 'assets/review2.png',
     review:
@@ -416,7 +416,7 @@ export const clientReviews = [
   },
   {
     id: 3,
-    name: 'John Dohsas',
+    name: 'Sabith Uzhunnan',
     position: 'Project Manager at UrbanTech ',
     img: 'assets/review3.png',
     review:
@@ -424,7 +424,7 @@ export const clientReviews = [
   },
   {
     id: 4,
-    name: 'Ether Smith',
+    name: 'Sinan Anakkayam',
     position: 'CEO of BrightStar Enterprises',
     img: 'assets/review4.png',
     review:
